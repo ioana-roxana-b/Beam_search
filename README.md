@@ -43,9 +43,11 @@ Mai jos sunt graficele în care se poate observa diferența de medie și varian�
 
 Concluzie
 
-Algoritmul BLDS este cel care reușește să găsească soluția pentru cel mai mare set de date, cu observația că necesită un timp de rulare mult mai mare comparativ cu ceilalți algoritmi și, pentru dimensiuni mari ale problemei(în cazul nostru N=6), stochează și mai multe stări în memorie.
+Algoritmul BLDS este cel care reușește să găsească soluția pentru cel mai mare set de date, cu observația că necesită un timp de rulare mult mai mare comparativ cu ceilalți algoritmi și, pentru dimensiuni mari
+ale problemei(în cazul nostru N=6), stochează și mai multe stări în memorie.
 Nu am reușit să implementez mecanismul de joc pentru Turnurile din Hanoi.
 
-7. Referințe
+Referințe
+
 Tabel analiza algoritmi https://docs.google.com/spreadsheets/d/17QGLmoTlyk32CWjTCK7LteI1cbaY3_WaMmYzPp_zLOM/edit?usp=sharing
 
